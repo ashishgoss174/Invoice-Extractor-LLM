@@ -1,0 +1,13 @@
+# Ignore Python cache and env folders
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+venv/
+.envrc
+
+# Ignore system files
+.DS_Store
+
+# Ignore other common files
+*.log

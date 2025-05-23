@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+chromadb
+faiss-cpu
+pillow
+poppler
+pdf2image
