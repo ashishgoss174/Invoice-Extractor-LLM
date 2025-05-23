@@ -5,5 +5,3 @@ langchain
 chromadb
 faiss-cpu
 pillow
-poppler
-pdf2image
