@@ -17,7 +17,7 @@ Supports multiple image formats (JPG, PNG, WebP) for invoices.
 
 ## Demo
 
-https://ashish-gossain-invoice-extractor-app.streamlit.app/
+https://ashish-gossain-invoice-extractor-llm.streamlit.app/
 
 ---
 
@@ -25,7 +25,7 @@ https://ashish-gossain-invoice-extractor-app.streamlit.app/
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.10 or higher
 - [Google Generative AI API Key](https://developers.generativeai.google/)
 - Streamlit account for deployment (optional)
 
@@ -34,7 +34,7 @@ https://ashish-gossain-invoice-extractor-app.streamlit.app/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/ashishgoss174/Invoice-Extractor-LLM-APP
+git clone https://github.com/ashishgoss174/Invoice-Extractor-LLM
 cd Invoice-Extractor-App
 
 ---
